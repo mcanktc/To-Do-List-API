@@ -27,6 +27,6 @@ Each user can create, read, update, and delete their own tasks. The API includes
 | PUT    | `/tasks/<int:pk>/` | Updates the specified task. Only the task owner can perform this action.                                                   |
 | DELETE | `/tasks/<int:pk>/` | Deletes the specified task. Only the task owner can perform this action.                                                   |
 
-> 🔐 All endpoints are protected by `IsAuthenticated` — authentication is required for all actions.
-> 💡 Optional query parameter:
+> All endpoints are protected by `IsAuthenticated` — authentication is required for all actions.
+> Optional query parameter:
 > `/tasks/?status=true` → Filter tasks by completion status.
