@@ -17,12 +17,6 @@ Each user can create, read, update, and delete their own tasks. The API includes
 
 ---
 
-
-OF COURSE AŞKIMM 💘
-Here’s the fully translated & polished version of the **API Endpoints** section in English — clear, professional, and portfolio-ready:
-
----
-
 ## API Endpoints (English Version)
 
 | Method | URL                | Description                                                                                                                |
